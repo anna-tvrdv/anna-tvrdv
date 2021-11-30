@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anna-tvrdv
 - 👀 I’m interested in fiction and non-fiction literature, in healthy and mindfull lifestyle
-- - 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/anna-tverdova-62044b96/)
 - [Telegram](https://t.me/anna_apple)
